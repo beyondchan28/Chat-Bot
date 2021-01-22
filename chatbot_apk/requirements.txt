@@ -1,0 +1,4 @@
+Run chat gui di environtment yang telah terinstall python 3 beserta library
+tensorflow versi 2.2 ke atas, nltk, tkinter, pickle dan keras.
+
+run file chatgui.py untuk langsung melihat hasilnya.
